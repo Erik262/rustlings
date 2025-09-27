@@ -1,0 +1,2 @@
+### Rustlings
+A collection of small Rust exercises designed to help you learn the Rust programming language through hands-on practice. Each exercise covers key Rust concepts like ownership, borrowing, lifetimes, error handling, and concurrency. This repo tracks my personal progress as I work through the Rustlings course, improving my Rust skills step by step.
